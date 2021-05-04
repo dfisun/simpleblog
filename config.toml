@@ -1,3 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Simple blog"
+theme =  "airspace-hugo"
